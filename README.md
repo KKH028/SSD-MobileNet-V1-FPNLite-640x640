@@ -1,1 +1,1 @@
-- tensorflow_hub-SSD-MobileNet-V2-FPNLite-640x640
+- tensorflow_hub-SSD-MobileNet-v1-FPNLite-640x640
