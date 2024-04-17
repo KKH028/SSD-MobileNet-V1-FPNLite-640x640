@@ -1,1 +1,1 @@
-- tensorflow_hub-SSD-MobileNet-v1-FPNLite-640x640
+- TensorFlow Hub에서 사전 학습된 tensorflow_hub-SSD-MobileNet-v1-FPNLite-320x320_coco17 입니다.
